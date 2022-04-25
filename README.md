@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hola!
+
+Comencé en el mundo del desarrollo a los 15 años, creando videojuegos y esto me ha hecho crecer más en mis competencias de desarrollo de software. Siempre aprendiendo cosas nuevas como autodidacta y también enseñando mis aprendizajes a otras personas.
+
+Actualmente soy estudiante de Ingeniería Informática en Inacap, donde he realizado proyectos en equipo y he realizado talleres a mis compañeros para enseñar mis conocimientos y aprender de estas nuevas experiencias.
+
+Me gusta el diseño visual de una app o un videojuego, las animaciones, las técnicas responsive, como también el código limpio en el backend y los patrones que existen. 
+
+He utilizado y conozco varias tecnologías que he aplicado en numerosos proyectos personales. Estoy muy motivado por aplicar mis conocimientos con algún equipo de desarrollo de forma profesional.
+
+Entre mis conocimientos técnicos están Flutter, Laravel, PHP, .NET, C#, C++, Unreal Engine, Unity, MySQL, Firebase, Git, GitHub, HTML5, CSS3, JS, Java. Me interesa mucho la organización del código, la optimización de las apps y las metodologías ágiles.
 
 <!--
 **IQuinteros/iquinteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
