@@ -23,7 +23,6 @@ Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplic
 	API desarrollada en laravel, con Frontend e Intranet de administración.
 - [IQuinteros Portfolio](https://github.com/IQuinteros/IQuinteros.github.io "IQuinteros Portfolio")
 	Página web estática desarrollada con HTML, SASS y JS para mostrar portafolio de proyectos de diseño interfaz implementada.
-------------
 - [TicTacToe Game](https://github.com/IQuinteros/ecoweb/tree/api-dev "TicTacToe Game")
 	Videojuego móvil en última etapa de desarrollo, desarrollado con Unreal Engine y C++
 
