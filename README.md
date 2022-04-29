@@ -1,14 +1,29 @@
-### Hola!
+### Hi there 👋
 
-Comencé en el mundo del desarrollo a los 15 años, creando videojuegos y esto me ha hecho crecer más en mis competencias de desarrollo de software. Siempre aprendiendo cosas nuevas como autodidacta y también enseñando mis aprendizajes a otras personas.
+Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplicaciones multiplataforma en Backend y Frontend.
 
-Actualmente soy estudiante de Ingeniería Informática en Inacap, donde he realizado proyectos en equipo y he realizado talleres a mis compañeros para enseñar mis conocimientos y aprender de estas nuevas experiencias.
+### Mis proyectos
+- [EcoApp](https://github.com/IQuinteros/ecoapp "EcoApp")
+	App móvil desarrollada en Flutter, con conexión a API desarrollada en PHP. Muchos conocimientos de patrones de diseño aplicados y trabajo en equipo, en posición de liderazgo.
+- [EcoApp API](https://github.com/IQuinteros/ecoweb/tree/api-dev "EcoApp API")
+	API desarrollada en PHP, aplicando patrones de diseño. Trabajo en equipo.
+- [ToDo App](https://github.com/IQuinteros/ecoweb/tree/api-dev "ToDo App")
+	App móvil con integración a Firebase. Desarrollado en Flutter, utilizando distintos elementos del framework para el desarrollo.
+- [Buscador de alojamiento](https://github.com/IQuinteros/LodgeFinderPrototype "Buscador de alojamiento")
+	App móvil desarrollada en Java, utilizando SQLite y modelos. También se utilizó una API, y por lo tanto, consumo de API's.
+- [GameServers](https://github.com/IQuinteros/GameServers "GameServers")
+	Página web desarrollada en PHP, HTML y JS. Incluye una intranet, con reportes. Los puntos fuertes del proyecto son el diseño de interfaz, implementado con SCSS, y las funcionalidades a nivel de backend trabajando con el motor de base de datos MySQL.
+- [HoverTanks API](https://github.com/Zeak-Games/hovertanks_api "HoverTanks API")
+	API desarrollada en laravel, con Frontend e Intranet de administración.
+- [IQuinteros Portfolio](https://github.com/IQuinteros/IQuinteros.github.io "IQuinteros Portfolio")
+	Página web estática desarrollada con HTML, SASS y JS para mostrar portafolio de proyectos de diseño interfaz implementada.
+------------
+- [TicTacToe Game](https://github.com/IQuinteros/ecoweb/tree/api-dev "TicTacToe Game")
+	Videojuego móvil en última etapa de desarrollo, desarrollado con Unreal Engine y C++
 
-Me gusta el diseño visual de una app o un videojuego, las animaciones, las técnicas responsive, como también el código limpio en el backend y los patrones que existen. 
-
-He utilizado y conozco varias tecnologías que he aplicado en numerosos proyectos personales. Estoy muy motivado por aplicar mis conocimientos con algún equipo de desarrollo de forma profesional.
-
-Entre mis conocimientos técnicos están Flutter, Laravel, PHP, .NET, C#, C++, Unreal Engine, Unity, MySQL, Firebase, Git, GitHub, HTML5, CSS3, JS, Java. Me interesa mucho la organización del código, la optimización de las apps y las metodologías ágiles.
+### Mis Redes
+Sitio web: https://iquinteros.github.io/
+LinkedIn: https://www.linkedin.com/in/iquinteros
 
 <!--
 **IQuinteros/iquinteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
