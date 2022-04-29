@@ -2,6 +2,11 @@
 
 Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplicaciones multiplataforma en Backend y Frontend.
 
+⚙️Actualmente trabajando en proyectos utilizando Laravel, y videojuegos con Unreal Engine y C++.
+🔭Igualmente buscando una oportunidad para aplicar y potenciar mis conocimientos, trabajando en equipo para el desarrollo de una organización, empresa u emprendimiento.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iquinteros&count_private=true&show_icons=true&theme=radical)
+
 ### Mis proyectos
 - [EcoApp](https://github.com/IQuinteros/ecoapp "EcoApp")
 	App móvil desarrollada en Flutter, con conexión a API desarrollada en PHP. Muchos conocimientos de patrones de diseño aplicados y trabajo en equipo, en posición de liderazgo.
@@ -21,9 +26,18 @@ Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplic
 - [TicTacToe Game](https://github.com/IQuinteros/ecoweb/tree/api-dev "TicTacToe Game")
 	Videojuego móvil en última etapa de desarrollo, desarrollado con Unreal Engine y C++
 
+------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iquinteros&langs_count=7&layout=compact)](https://github.com/iquinteros)
+
+*Lenguajes solo de repositorios públicos*
+
+------------
+
 ### Mis Redes
 Sitio web: https://iquinteros.github.io/
 LinkedIn: https://www.linkedin.com/in/iquinteros
+
 
 <!--
 **IQuinteros/iquinteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
