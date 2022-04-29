@@ -3,6 +3,7 @@
 Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplicaciones multiplataforma en Backend y Frontend.
 
 ⚙️Actualmente trabajando en proyectos utilizando Laravel, y videojuegos con Unreal Engine y C++.
+
 🔭Igualmente buscando una oportunidad para aplicar y potenciar mis conocimientos, trabajando en equipo para el desarrollo de una organización, empresa u emprendimiento.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iquinteros&count_private=true&show_icons=true&theme=radical)
@@ -36,6 +37,7 @@ Estudiante de Ingeniería Informática, con conocimientos en desarrollo de aplic
 
 ### Mis Redes
 Sitio web: https://iquinteros.github.io/
+
 LinkedIn: https://www.linkedin.com/in/iquinteros
 
 
