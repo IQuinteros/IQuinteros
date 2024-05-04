@@ -4,8 +4,6 @@ Desarrollador de Software, con conocimientos en desarrollo de aplicaciones multi
 
 ⚙️Actualmente trabajando en proyectos utilizando Java Spring Boot, Flutter, y videojuegos con Unreal Engine y C++.
 
-🔭Busco crecer y aprender muchísimo del desarrollo, las buenas prácticas, y crear nuevos mundos en Unreal :D
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iquinteros&count_private=true&show_icons=true&theme=radical)
 
 ### Mis proyectos
